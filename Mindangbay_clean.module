@@ -1,0 +1,8 @@
+#!name=Locket - Clean Configuration
+#!desc=Clean baseline configuration; no subscription, VIP, or account-entitlement modification
+#!author=OpenAI
+#!system=ios
+
+# This is a safe baseline only. It intentionally contains no request/response
+# scripts, header rewrites, host overrides, or MITM interception.
+# Add only scripts from a source you trust and whose behavior you have reviewed.
